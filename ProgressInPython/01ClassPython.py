@@ -43,3 +43,25 @@ print(n1 + n2 - n3 + n2)
 # ejemplo  multiplication(*)
 
 print(n1 * n3 - n1)
+
+# ejercicio de division(*)
+
+print( n3 / n1)
+
+# ejercicio exponential(**)
+
+print(n1 ** 2)
+
+# ejercicio de modulus(%)
+
+print( 2 % n2)
+
+
+
+
+
+
+
+
+
+
