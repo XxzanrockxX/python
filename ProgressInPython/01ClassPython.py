@@ -44,7 +44,7 @@ print(n1 + n2 - n3 + n2)
 
 print(n1 * n3 - n1)
 
-# ejercicio de division(*)
+# ejercicio de division(*)cd pp
 
 print( n3 / n1)
 
@@ -55,6 +55,17 @@ print(n1 ** 2)
 # ejercicio de modulus(%)
 
 print( 2 % n2)
+
+# ejercicio de Floor division operator(//)
+
+print(n1 // n2)
+
+# ahora pasaremos a los ejemplos con los tipos de datos 
+
+print(type(10))             
+
+
+
 
 
 
