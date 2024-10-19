@@ -14,9 +14,9 @@ max()   # esta funcion es la inversa de min ya que esta busca el valor mayor.
 sum()   # esta funcion se usa para sumar todos los elementos numericos dentro de un iterable.
 sorted()# esta funcion crea una lista ordenada apartir de un iterable, sin modificar el iterable original.
 open()  # esta funcion se utiliza para abrir archivos 
-file()  # un dato curioso con esta funcion y es que para python3 ya no existe y ha sido remplazada por la funcion open() asi que ahora se usa open() para crear obetos de archivo en el sistea de archivos 
+#file() open() # un dato curioso con esta funcion y es que para python3 ya no existe y ha sido remplazada por la funcion open() asi que ahora se usa open() para crear obetos de archivo en el sistea de archivos 
 help()  # esta funcion se utiliza para obtener iformacion de cualquier elemento del lenguaje
-dir()   #esta funcion devuelve una lista de cadenas que contienen los nombres de los atributos y metodos de un objeto si se llaman sin argumentos , dir() devolvera los nombres que se encuentran actualmente en el ambito local.
+dir()   #esta funcion devuelve una lista de cadenas que contienen los nombres de los atributos y metodos de un objeto si se llaman sin argumentos , dir() devolvera los nombres que se encuentran actualmente en el ambito local.#
 
-"""con esto damos una descripcion de lo que hacen estas funciones incorporadas"""
+
 
